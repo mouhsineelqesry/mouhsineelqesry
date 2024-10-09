@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @mouhsineelqesry!
 
-* 👀 I'm interested in data science.
-* 🌱 I'm currently learning data science by programming in Python.
+* 👀 I'm interested in data science and machine learning.
+* 🌱 I'm currently learning machine learning and AI using in Python.
 * 💞️ I'm looking to collaborate on projects in data science, physics, and chemistry.
 * 📫 How to reach me: mohcinegood@gmail.com
 
