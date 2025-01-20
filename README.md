@@ -33,7 +33,7 @@ I’m eager to collaborate on:
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [mohcinegood@gmail.com](mailto:mohcinegood@gmail.com)
+- **Email**: [mohcinegood@gmail.com](mailto:elqesrymouhsine@gmail.com)
 - **LinkedIn**: [Mouhsine El Qesry](https://www.linkedin.com/in/mouhsine-el-qesry)
 - **GitHub**: [@mouhsineelqesry](https://github.com/mouhsineelqesry)
 
